@@ -8,3 +8,4 @@ feature_store/*.parquet
 feature_store/*.pkl
 models/*.pkl
 .pytest_cache/
+mlflow.db
